@@ -1,6 +1,8 @@
 # Enhance Memory Management
+
 ## Objectives
 The objective of this project is to apply your understanding of memory management to enhance the given programs.
+
 
 ## Problem
 Enhance the code snippets given to you.
@@ -8,7 +10,6 @@ Enhance the code snippets given to you.
 
 ## Implementation
 Enhance the following code snippets as much as possible.
-
 
 - First code snippet
 ```c
@@ -60,5 +61,7 @@ int main() {
 
 
 ## Submission 
-- Create a new issue with the title “Answer [your-username]” and write your answer.
-- Create an issue of your questions, If you face any trouble solving the project.
+- Fork the project and add your code to it.
+- Submit a pull request when you complete the project.
+- Create an issue of your questions if you face any trouble solving the project.
+
